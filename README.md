@@ -5,9 +5,7 @@ IIT Summer Elevate course on online social network analysis.
 
 **Course:** SCI 498 - 410: Online Social Network Analysis  
 **Instructor:** [Dr. Aron Culotta](http://cs.iit.edu/~culotta)  
-**Meetings:**  See [Schedule](Schedule.md) for dates  
-- **Lecture:** 10:00am - 12:00 pm.
-- **Lab:**     1:00pm - 3:00 pm     
+**Meetings:**  See [Schedule](Schedule.md) for dates. **Lecture:** 10:00am - 12:00 pm. **Lab:**     1:00pm - 3:00 pm  
 **E-mail:** culotta at cs.iit.edu  
 **Phone:** 312-567-5261  
 **Office:** Stuart Hall 209C  
