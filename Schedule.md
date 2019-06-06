@@ -1,4 +1,3 @@
-
 Each day has lecture from 10am-12pm followed by a break followed by lab from 1-3pm.
 
 | Date  | Topic                       | Readings                      | Due           | Lecture      |
