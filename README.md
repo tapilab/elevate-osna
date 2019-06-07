@@ -1,12 +1,15 @@
 # elevate-osna
-IIT Summer Elevate course on online social network analysis.
+IIT Summer Elevate course on online social network analysis.  
+*[Illinois Institute of Technology](http://iit.edu)*  
+
+
 
 This repository contains:
 - The course syllabus (this document)
 - The course [schedule](Schedule.md)
 - The [lecture notes](lec)
 
-*[Illinois Institute of Technology](http://iit.edu)*  
+
 
 **Course:** SCI 498 - 410: Online Social Network Analysis  
 **Instructor:** [Dr. Aron Culotta](http://cs.iit.edu/~culotta)  
