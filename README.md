@@ -11,8 +11,9 @@ IIT Summer Elevate course on online social network analysis.
 **Office:** Stuart Hall 209C  
 **TAs:**        Tuan Tran (ttran22 at hawk) 
 
-**See the [Schedule](Schedule.md) for a detailed list of readings and due dates.**
-
+- **See the [Schedule](Schedule.md) for a detailed list of readings and due dates.**
+- **Be sure to complete the [course survey](https://forms.gle/NzGZRUYfDhceZ6CZ8).**
+- See the [elevate-osna-starter](https://github.com/tapilab/elevate-osna-starter) repository for project details.
 
 **Description:** This project-based course explores the latest algorithms for analyzing online social networks, considering both their structure and content. Projects will focus on ways to combat rising issues that confront online platforms, including cyberbullying, bots, and misinformation. Real-world data will be analyzed using artificial intelligence approaches to natural language processing and network analysis, using the latest open-source tools in Python, including TensorFlow, scikit-learn, and nltk.
 
