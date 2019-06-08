@@ -1,4 +1,4 @@
-# elevate-osna
+# SCI 498 - 410: Online Social Network Analysis
 IIT Summer Elevate course on online social network analysis.  
 *[Illinois Institute of Technology](http://iit.edu)*  
 
@@ -19,7 +19,6 @@ This repository contains:
 **Office:** Stuart Hall 209C  
 **TAs:**        Tuan Tran (ttran22 at hawk) 
 
-- **See the [Schedule](Schedule.md) for a detailed list of readings and due dates.**
 - **Be sure to complete the [course survey](https://forms.gle/NzGZRUYfDhceZ6CZ8).**
 - See the [elevate-osna-starter](https://github.com/tapilab/elevate-osna-starter) repository for project details.
 
