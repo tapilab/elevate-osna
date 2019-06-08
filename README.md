@@ -1,6 +1,7 @@
 # SCI 498 - 410: Online Social Network Analysis
-IIT Summer Elevate course on online social network analysis.  
-*[Illinois Institute of Technology](http://iit.edu)*  
+Summer Elevate course on online social network analysis.  
+*Aron Culotta*  
+*[Illinois Institute of Technology](http://iit.edu)*   
 
 
 
