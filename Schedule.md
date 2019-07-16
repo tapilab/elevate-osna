@@ -1,4 +1,4 @@
-Each day has lecture from 10am-12pm followed by a break followed by lab from 1-3pm (both are in IIT Tower 6D6-1).
+Each day has lecture from 10am-12pm followed by a break followed by lab from 1-3pm (both are in PS 240).
 
 | Date  | Topic                       | Readings                      | Due           | Lecture      |
 | ----- |-----------------------------|-------------------------------|---------------|--------------|
