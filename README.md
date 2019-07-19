@@ -1,4 +1,4 @@
-# SCI 498 - 410: Online Social Network Analysis
+# SCI 497/498 - 410: Online Social Network Analysis
 Summer Elevate course on online social network analysis.  
 *Aron Culotta*  
 *[Illinois Institute of Technology](http://iit.edu)*   
@@ -12,7 +12,7 @@ This repository contains:
 
 
 
-**Course:** SCI 498 - 410: Online Social Network Analysis  
+**Course:** SCI 497/498 - 410: Online Social Network Analysis  
 **Instructor:** [Dr. Aron Culotta](http://cs.iit.edu/~culotta)  
 **Meetings:**  See [Schedule](Schedule.md) for dates. **Lecture:** 10:00am - 12:00 pm. **Lab:**     1:00pm - 3:00 pm . Both are in  [PS 240](https://goo.gl/maps/MSpb6KyL1jbMJyXq9)  
 **E-mail:** culotta at cs.iit.edu  
