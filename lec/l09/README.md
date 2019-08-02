@@ -1,1 +1,1 @@
-View notebook here <https://nbviewer.jupyter.org/github/tapilab/elevate-osna/blob/master/lec/l09/l09.ipynb>
+View notebooks here <https://nbviewer.jupyter.org/github/tapilab/elevate-osna/blob/master/lec/l09/l09_1.ipynb> and here <https://nbviewer.jupyter.org/github/tapilab/elevate-osna/blob/master/lec/l09/l09_2.ipynb>
